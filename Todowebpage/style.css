@@ -1,0 +1,23 @@
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/back-school-concept-books-colored-pencils-clock_155003-7409.jpg?size=626&ext=jpg&ga=GA1.2.932255945.1675014897&semt=ais");
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 15px;
+}
+
+.button {
+    width: 70px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    background-color: #ebc034;
+    border-width: 0px;
+}
+
+.content {
+    text-decoration: underline;
+    font-size: 10px;
+}
